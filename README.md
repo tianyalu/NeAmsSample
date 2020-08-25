@@ -1,4 +1,4 @@
-# `ActivityManagerService`架构设计
+# `ActivityManagerService`架构设计源码分析
 
 [TOC]
 
@@ -29,8 +29,6 @@
 #### 1.2.1 `startService`流程
 
 ![image](https://github.com/tianyalu/NeAmsSample/raw/master/show/service_start_processes.png)
-
-![image-20200824193756461](/Users/tian/Library/Application Support/typora-user-images/image-20200824193756461.png)
 
 #### 1.2.2 `Activity`跨进程跳转源码分析
 
